@@ -1,0 +1,19 @@
+table {
+	border-collapse: collapse;
+	width: 50%;
+}
+
+th {
+	text-align: left;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+#header {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
